@@ -1,6 +1,10 @@
 {
-	"name": "fcc-learn-npm-package-json",
 	"author": "Rodrigo Loiola",
+	"description": "Projeto para aprender um pouco de gerenciamento de pacotes com o NPM",
+	"keywords": [ "freecodecamp", "aprendizado", "projeto-web" ],
+	"license": "UEPB",
+	"version": "1.0.0",
+	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
